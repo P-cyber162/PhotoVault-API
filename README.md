@@ -3,7 +3,7 @@ Overview
 This repository contains an early attempt at building a backend project using Firebase and TypeScript. The project was not successful due to over-reliance on AI-generated code without fully understanding the debugging process. As a result, critical issues were left unresolved, and the project could not be completed.
 
 What Went Wrong
-Relied soo heavily on AI suggestions without deep comprehension.
+Relied too heavily on AI suggestions without deep comprehension.
 
 Limited debugging practice, which slowed progress when errors appeared.
 
